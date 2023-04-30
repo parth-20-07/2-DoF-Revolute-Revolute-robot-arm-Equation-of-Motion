@@ -42,7 +42,7 @@ The complete calculation has been done [here (webpage form)](https://htmlpreview
 
 ## Gazebo and ROS
 
-The same system is simulated with the equations of motion present in Gazebo with real-world physics replication as shown [here](./Solution/Gazebo/rrbot_passive.mlx). It generates in system behaving as follows
+The same system is simulated with the equations of motion present in Gazebo with real-world physics replication as shown [here (webpage form)](https://htmlpreview.github.io/?https://github.com/parth-20-07/2-DoF-Revolute-Revolute-robot-arm-Equation-of-Motion/blob/main/Solution/Gazebo/rrbot_passive.html). It generates in system behaving as follows
 
 ![Gazebo Simulation](./Docs/Gazebo%20Simulation.gif)
 
