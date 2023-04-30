@@ -36,7 +36,7 @@ $$
 This would result in an equation of form $a\ddot{q} + b\dot{q} + c{q} + d = 0$. We solve for $\ddot{q_{i}}$ which results in the equation of motion for the system. This system does not contain any form of input. Thus, $u_{i} = 0$ for all joints.
 
 ## MATLAB
-The complete calculation has been done [here](./Solution/MATLAB/main.html) and [here](./Solution/MATLAB/main.mlx) in MATLAB. The systems with the equation of motion are simulated as follows
+The complete calculation has been done [here (webpage form)](https://htmlpreview.github.io/?https://github.com/parth-20-07/2-DoF-Revolute-Revolute-robot-arm-Equation-of-Motion/blob/21aea4f0ee493422593e973d1964ae5801dc50d7/Solution/MATLAB/main.html) in MATLAB. The systems with the equation of motion are simulated as follows
 
 ![MATLAB Simulation](./Docs/MATLAB%20Simulation.gif)
 
