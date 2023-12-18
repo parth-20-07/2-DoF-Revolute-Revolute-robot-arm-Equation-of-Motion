@@ -48,13 +48,30 @@ The same system is simulated with the equations of motion present in Gazebo with
 
 # Observations and Results
 
-| Graph Type                | MATLAB                                                    | Gazebo                                                    |
-| ------------------------- | --------------------------------------------------------- | --------------------------------------------------------- |
-| Simulation                | ![MATLAB Simulation](./Docs/MATLAB%20Simulation.gif)      | ![Gazebo Simulation](./Docs/Gazebo%20Simulation.gif)      |
-| $\theta_{1}$ vs $t$       | ![matlab_theta1_vs_t](./Solution/MATLAB/theta1.jpg)       | ![gazebo_theta1_vs_t](./Solution/Gazebo/theta1.jpg)       |
-| $\dot{\theta_{1}}$ vs $t$ | ![matlab_dtheta1_vs_t](./Solution/MATLAB/theta_dot_1.jpg) | ![gazebo_dtheta1_vs_t](./Solution/Gazebo/theta_dot_1.jpg) |
-| $\theta_{2}$ vs $t$       | ![matlab_theta2_vs_t](./Solution/MATLAB/theta2.jpg)       | ![gazebo_theta2_vs_t](./Solution/Gazebo/theta2.jpg)       |
-| $\dot{\theta_{2}}$ vs $t$ | ![matlab_dtheta2_vs_t](./Solution/MATLAB/theta_dot_2.jpg) | ![gazebo_dtheta2_vs_t](./Solution/Gazebo/theta_dot_2.jpg) |
+**$\theta_{1}$ vs $t$**
+
+![matlab_theta1_vs_t](./Solution/MATLAB/theta1.jpg)
+
+![gazebo_theta1_vs_t](./Solution/Gazebo/theta1.jpg)
+
+**$\dot{\theta_{1}}$ vs $t$**
+
+![matlab_dtheta1_vs_t](./Solution/MATLAB/theta_dot_1.jpg)
+
+![gazebo_dtheta1_vs_t](./Solution/Gazebo/theta_dot_1.jpg)
+
+**$\theta_{2}$ vs $t$**
+
+![matlab_theta2_vs_t](./Solution/MATLAB/theta2.jpg)      
+
+![gazebo_theta2_vs_t](./Solution/Gazebo/theta2.jpg)      
+
+**$\dot{\theta_{2}}$ vs $t$**
+
+![matlab_dtheta2_vs_t](./Solution/MATLAB/theta_dot_2.jpg)
+
+![gazebo_dtheta2_vs_t](./Solution/Gazebo/theta_dot_2.jpg)
+
 
 **Possible Reasons for difference:**
 - The lack of friction in the MATLAB System.
